@@ -84,3 +84,5 @@ To improve the model's performance, several strategies could be considered:
 2. **Hyperparameter Tuning**: Experiment with different learning rates, batch sizes, dropout rates, and other hyperparameters to find the optimal settings.
 3. **Fine-tuning BERT**: Consider unfreezing more BERT layers to fine-tune the model better for this specific task.
 4. **Model Enhancements**: Explore more complex architectures or additional features to improve model generalization.
+
+[Back to Main Directory](../README.md)
