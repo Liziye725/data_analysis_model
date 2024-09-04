@@ -1,0 +1,47 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore log files
+*.log
+
+# Miscellaneous
+*.tmp
+*.temp
+
+# Model files
+*.pt
+*.h5
+*.ckpt
+*.pkl
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+
+# Data files
+# *.csv
+*.tsv
+*.json
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+*.npy
+*.npz
+*.xls
+*.xlsx
+
+# Ignore user-specific files
+*.env
+
+# Ignore other specific large files
+largefile.*
